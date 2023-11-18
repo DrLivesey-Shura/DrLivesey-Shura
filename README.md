@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)]
+
 <h1 align="center">Hi 👋, I'm Merah Alaeddine</h1>
 <h3 align="center">A Master Student in Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif"/>
